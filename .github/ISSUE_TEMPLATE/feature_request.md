@@ -1,20 +1,18 @@
----
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
----
-
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+name: ✨ Feature request
+description: Propose a feature, enhancement, or idea for Dropshelf
+labels: [enhancement]
+body:
+  - type: textarea
+    attributes:
+      label: 📝 Description of the new feature/enhancement
+      description: What is the expected behavior of this proposed feature/enhancement? In what scenario(s) would this be used?
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: ➕ Supporting information
+      description: |
+        Examples of this feature implemented in other software, screenshots, links, etc.
+        Everything is super helpful!
+    validations:
+      required: false
