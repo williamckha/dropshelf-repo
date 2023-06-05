@@ -11,3 +11,7 @@ Welcome to the issue-only repo for Dropshelf. Dropshelf is a drag and drop utili
 <br/>
 
 ![Demonstration of Dropshelf app](images/demo.gif)
+
+## Translations and internationalization
+
+If you're interested in helping translate Dropshelf, [you can follow the steps outlined here.](https://github.com/williamckha/dropshelf-issues/blob/main/TRANSLATIONS.md)
