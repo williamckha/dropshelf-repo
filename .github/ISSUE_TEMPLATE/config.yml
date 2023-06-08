@@ -4,5 +4,4 @@ contact_links:
     url: https://crowdin.com/project/dropshelf
     about: Help improve translations on Crowdin.
   - name: Contact the developer
-    url: mailto:dropshelf.app@gmail.com
-    about: Send an email to the developer.
+    about: Send an email to the developer: dropshelf.app@gmail.com
